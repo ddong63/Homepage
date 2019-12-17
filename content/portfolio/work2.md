@@ -3,11 +3,13 @@ date: "2016-11-05T19:41:01+05:30"
 draft: false
 image: img/portfolio/business-card-26.jpg
 showonlyimage: false
-title: Name of the work 2
+title: NLP - Name Entity Recognition
 weight: 1
 ---
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.
+Place hold for NLP - Name Entity Recognition
+
+
 <!--more-->
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.

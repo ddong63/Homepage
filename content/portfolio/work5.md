@@ -3,11 +3,14 @@ date: "2016-11-05T19:53:42+05:30"
 draft: false
 image: https://github.com/kishaningithub/hugo-creative-portfolio-theme/raw/master/exampleSite/static/img/portfolio/business-card.jpg
 showonlyimage: true
-title: Name of the work 5
+title: NLP - Text Auto Generation
 weight: 5
 ---
 
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
+Place hold for text generation. 
+
+Fortune cookie quote generator. 
+
 <!--more-->
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
