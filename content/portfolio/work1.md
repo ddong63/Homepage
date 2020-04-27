@@ -1,13 +1,13 @@
 ---
-date: "2016-11-05T18:25:22+05:30"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
 draft: false
 image: img/portfolio/a4-paper.jpg
 showonlyimage: true
-title: NLP - Sentiment Analysis
+title: NLP - Text Classification - Loan Type
 weight: 0
 ---
 
-Place hold for Sentiment Analysis
+Place hold for Text Classification - Loan Type
 
 <!--more-->
 

@@ -1,13 +1,13 @@
 ---
-date: "2016-11-05T19:50:47+05:30"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
 draft: false
 image: ""
 showonlyimage: false
-title: NLP - Word2Vec
+title: Clustering - customer segamentation
 weight: 4
 ---
 
-Place hold for an example shows NLP - Word2Vec
+Place hold for an example shows Clustering - customer segamentation
 
 <!--more-->
 

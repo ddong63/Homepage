@@ -1,15 +1,15 @@
 ---
-date: "2016-11-05T19:53:42+05:30"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
 draft: false
 image: https://github.com/kishaningithub/hugo-creative-portfolio-theme/raw/master/exampleSite/static/img/portfolio/business-card.jpg
 showonlyimage: true
-title: NLP - Text Auto Generation
+title: Customer Lifetime Value Modelling
 weight: 5
 ---
 
-Place hold for text generation. 
+Place hold for Customer Lifetime Value Modelling
 
-Fortune cookie quote generator. 
+https://towardsdatascience.com/5-data-science-project-every-e-commerce-company-should-do-8746c5ab4604
 
 <!--more-->
 

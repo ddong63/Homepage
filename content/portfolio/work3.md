@@ -1,14 +1,18 @@
 ---
-date: "2016-11-05T19:44:32+05:30"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
 draft: false
 image: img/portfolio/gravity-paper.jpg
 showonlyimage: false
-title: NLP - Dependency parsing
+title: Sentiment - Amazon Review
 weight: 2
 ---
 
-Place hold for an example shows NLP - Dependency parsing. 
+Place hold for an example shows Sentiment - Amazon Review
 
+dataset can be found here
+
+- https://s3.amazonaws.com/amazon-reviews-pds/readme.html
+- https://registry.opendata.aws/amazon-reviews/
 
 <!--more-->
 

@@ -3,12 +3,15 @@ date: "2016-11-05T19:56:17+05:30"
 draft: false
 image: ""
 showonlyimage: false
-title: Recommender system 
+title: Customer Retention- Churn Model
+
 weight: 6
 ---
 
 
-Place hold for  Recommender system  (Amazon example)
+Place hold for  3. Customer Retention- Churn Model
+
+https://towardsdatascience.com/5-data-science-project-every-e-commerce-company-should-do-8746c5ab4604
 
 <!--more-->
 

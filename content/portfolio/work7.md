@@ -1,13 +1,20 @@
 ---
-date: "2016-11-05T19:57:40+05:30"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
 draft: false
 image: img/portfolio/label-clothes.jpg
 showonlyimage: false
-title: Document retrival
+title: Machine Learning for Retail 
 weight: 7
 ---
 
-Place hold for document retrival using clustering analysis
+Place hold for machine learning for retails!
+
+https://lionbridge.ai/datasets/24-best-ecommerce-retail-datasets-for-machine-learning/
+
+women's wear  https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews/home#Womens%20Clothing%20E-Commerce%20Reviews.csv
+
+victoria secret https://www.kaggle.com/PromptCloudHQ/innerwear-data-from-victorias-secret-and-others#victoriassecret_com.csv
+
 
 <!--more-->
 

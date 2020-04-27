@@ -1,11 +1,13 @@
 ---
-date: "2016-11-05T20:23:59+05:30"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
 draft: false
 image: img/portfolio/paper-presentation.jpg
 showonlyimage: true
-title: Item with image
+title: Chatbot
 weight: 11
 ---
+
+Placehold for Chatbot
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
 <!--more-->

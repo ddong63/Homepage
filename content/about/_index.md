@@ -1,5 +1,5 @@
 ---
-date: "Mon Dec 16 14:33:24 2019"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
 title: About me
 ---
 

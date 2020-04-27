@@ -6,86 +6,110 @@
     <description>Recent content on Dora Dong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 05 Nov 2016 19:56:17 +0530</lastBuildDate>
     
 	<atom:link href="https://ddong.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>NLP - Name Entity Recognition</title>
+      <title>Classification - Lending Club</title>
       <link>https://ddong.netlify.com/portfolio/work2/</link>
-      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ddong.netlify.com/portfolio/work2/</guid>
-      <description>&lt;p&gt;Place hold for NLP - Name Entity Recognition&lt;/p&gt;
+      <description>&lt;p&gt;Place hold for Classification - Lending Club&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.lendingclub.com/info/statistics.action&#34;&gt;https://www.lendingclub.com/info/statistics.action&lt;/a&gt;
+&lt;a href=&#34;https://www.lendingclub.com/statistics/additional-statistics?&#34;&gt;https://www.lendingclub.com/statistics/additional-statistics?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://rstudio-pubs-static.s3.amazonaws.com/290261_676d9bb194ae4c9882f599e7c0a808f2.html&#34;&gt;http://rstudio-pubs-static.s3.amazonaws.com/290261_676d9bb194ae4c9882f599e7c0a808f2.html&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>NLP - Dependency parsing</title>
+      <title>Sentiment - Amazon Review</title>
       <link>https://ddong.netlify.com/portfolio/work3/</link>
-      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ddong.netlify.com/portfolio/work3/</guid>
-      <description>&lt;p&gt;Place hold for an example shows NLP - Dependency parsing.&lt;/p&gt;
+      <description>&lt;p&gt;Place hold for an example shows Sentiment - Amazon Review&lt;/p&gt;
+
+&lt;p&gt;dataset can be found here&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://s3.amazonaws.com/amazon-reviews-pds/readme.html&#34;&gt;https://s3.amazonaws.com/amazon-reviews-pds/readme.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://registry.opendata.aws/amazon-reviews/&#34;&gt;https://registry.opendata.aws/amazon-reviews/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>NLP - Word2Vec</title>
+      <title>Clustering - customer segamentation</title>
       <link>https://ddong.netlify.com/portfolio/work4/</link>
-      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ddong.netlify.com/portfolio/work4/</guid>
-      <description>&lt;p&gt;Place hold for an example shows NLP - Word2Vec&lt;/p&gt;
+      <description>&lt;p&gt;Place hold for an example shows Clustering - customer segamentation&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>NLP - Text Auto Generation</title>
+      <title>Customer Lifetime Value Modelling</title>
       <link>https://ddong.netlify.com/portfolio/work5/</link>
-      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ddong.netlify.com/portfolio/work5/</guid>
-      <description>&lt;p&gt;Place hold for text generation.&lt;/p&gt;
+      <description>&lt;p&gt;Place hold for Customer Lifetime Value Modelling&lt;/p&gt;
 
-&lt;p&gt;Fortune cookie quote generator.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/5-data-science-project-every-e-commerce-company-should-do-8746c5ab4604&#34;&gt;https://towardsdatascience.com/5-data-science-project-every-e-commerce-company-should-do-8746c5ab4604&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Recommender system</title>
+      <title>Customer Retention- Churn Model</title>
       <link>https://ddong.netlify.com/portfolio/work6/</link>
       <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
       
       <guid>https://ddong.netlify.com/portfolio/work6/</guid>
-      <description>&lt;p&gt;Place hold for  Recommender system  (Amazon example)&lt;/p&gt;
+      <description>&lt;p&gt;Place hold for  3. Customer Retention- Churn Model&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/5-data-science-project-every-e-commerce-company-should-do-8746c5ab4604&#34;&gt;https://towardsdatascience.com/5-data-science-project-every-e-commerce-company-should-do-8746c5ab4604&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Document retrival</title>
+      <title>Machine Learning for Retail</title>
       <link>https://ddong.netlify.com/portfolio/work7/</link>
-      <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ddong.netlify.com/portfolio/work7/</guid>
-      <description>&lt;p&gt;Place hold for document retrival using clustering analysis&lt;/p&gt;
+      <description>&lt;p&gt;Place hold for machine learning for retails!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://lionbridge.ai/datasets/24-best-ecommerce-retail-datasets-for-machine-learning/&#34;&gt;https://lionbridge.ai/datasets/24-best-ecommerce-retail-datasets-for-machine-learning/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;women&amp;rsquo;s wear  &lt;a href=&#34;https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews/home#Womens%20Clothing%20E-Commerce%20Reviews.csv&#34;&gt;https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews/home#Womens%20Clothing%20E-Commerce%20Reviews.csv&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;victoria secret &lt;a href=&#34;https://www.kaggle.com/PromptCloudHQ/innerwear-data-from-victorias-secret-and-others#victoriassecret_com.csv&#34;&gt;https://www.kaggle.com/PromptCloudHQ/innerwear-data-from-victorias-secret-and-others#victoriassecret_com.csv&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Name of the work 8</title>
+      <title>Fashion MNIST</title>
       <link>https://ddong.netlify.com/portfolio/work8/</link>
-      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ddong.netlify.com/portfolio/work8/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
+      <description>&lt;p&gt;Fashion MNIST&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.kaggle.com/zalando-research/fashionmnist/metadata&#34;&gt;https://www.kaggle.com/zalando-research/fashionmnist/metadata&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
 &lt;/p&gt;</description>
     </item>
     
@@ -100,34 +124,27 @@
     </item>
     
     <item>
-      <title>Item with image</title>
+      <title>Recommendar System</title>
       <link>https://ddong.netlify.com/portfolio/work10/</link>
-      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ddong.netlify.com/portfolio/work10/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+      <description>&lt;p&gt;Placehold for Recommendar System&lt;/p&gt;
+
+&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
 &lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Item with image</title>
+      <title>Chatbot</title>
       <link>https://ddong.netlify.com/portfolio/work11/</link>
-      <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ddong.netlify.com/portfolio/work11/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>NLP - Sentiment Analysis</title>
-      <link>https://ddong.netlify.com/portfolio/work1/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
-      
-      <guid>https://ddong.netlify.com/portfolio/work1/</guid>
-      <description>&lt;p&gt;Place hold for Sentiment Analysis&lt;/p&gt;
+      <description>&lt;p&gt;Placehold for Chatbot&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -139,6 +156,17 @@
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+    <item>
+      <title>NLP - Text Classification - Loan Type</title>
+      <link>https://ddong.netlify.com/portfolio/work1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ddong.netlify.com/portfolio/work1/</guid>
+      <description>&lt;p&gt;Place hold for Text Classification - Loan Type&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

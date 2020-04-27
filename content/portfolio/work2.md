@@ -1,13 +1,18 @@
 ---
-date: "2016-11-05T19:41:01+05:30"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
 draft: false
 image: img/portfolio/business-card-26.jpg
 showonlyimage: false
-title: NLP - Name Entity Recognition
+title: Classification - Lending Club 
 weight: 1
 ---
 
-Place hold for NLP - Name Entity Recognition
+Place hold for Classification - Lending Club 
+
+https://www.lendingclub.com/info/statistics.action
+https://www.lendingclub.com/statistics/additional-statistics?
+
+http://rstudio-pubs-static.s3.amazonaws.com/290261_676d9bb194ae4c9882f599e7c0a808f2.html
 
 
 <!--more-->
