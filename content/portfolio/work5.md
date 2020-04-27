@@ -2,16 +2,20 @@
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 draft: false
 image: https://github.com/kishaningithub/hugo-creative-portfolio-theme/raw/master/exampleSite/static/img/portfolio/business-card.jpg
-showonlyimage: true
+showonlyimage: false
 title: Customer Lifetime Value Modelling
 weight: 5
 ---
 
 Place hold for Customer Lifetime Value Modelling
 
-https://towardsdatascience.com/5-data-science-project-every-e-commerce-company-should-do-8746c5ab4604
 
 <!--more-->
+dataset
+
+
+https://towardsdatascience.com/5-data-science-project-every-e-commerce-company-should-do-8746c5ab4604
+
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
 

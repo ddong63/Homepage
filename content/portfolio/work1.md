@@ -2,7 +2,7 @@
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 draft: false
 image: img/portfolio/a4-paper.jpg
-showonlyimage: true
+showonlyimage: false
 title: NLP - Text Classification - Loan Type
 weight: 0
 ---

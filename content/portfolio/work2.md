@@ -9,13 +9,16 @@ weight: 1
 
 Place hold for Classification - Lending Club 
 
+<!--more-->
+
+Dataset are here
+
 https://www.lendingclub.com/info/statistics.action
 https://www.lendingclub.com/statistics/additional-statistics?
 
 http://rstudio-pubs-static.s3.amazonaws.com/290261_676d9bb194ae4c9882f599e7c0a808f2.html
 
 
-<!--more-->
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
 

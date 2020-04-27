@@ -9,6 +9,10 @@ weight: 7
 
 Place hold for machine learning for retails!
 
+<!--more-->
+
+dataset
+
 https://lionbridge.ai/datasets/24-best-ecommerce-retail-datasets-for-machine-learning/
 
 women's wear  https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews/home#Womens%20Clothing%20E-Commerce%20Reviews.csv
@@ -16,7 +20,7 @@ women's wear  https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-review
 victoria secret https://www.kaggle.com/PromptCloudHQ/innerwear-data-from-victorias-secret-and-others#victoriassecret_com.csv
 
 
-<!--more-->
+
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
 

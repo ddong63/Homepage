@@ -2,7 +2,7 @@
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 draft: false
 image: img/portfolio/trifold.jpg
-showonlyimage: true
+showonlyimage: false
 title: Recommendar System
 weight: 10
 ---
